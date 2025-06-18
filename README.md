@@ -1,3 +1,5 @@
-Stopped at Create the repository
+Hello Odin! 
 
-https://www.theodinproject.com/lessons/foundations-git-basics
+Stopped at Working with text
+
+https://www.theodinproject.com/lessons/foundations-working-with-text
