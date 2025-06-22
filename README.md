@@ -1,5 +1,7 @@
 Hello Odin! 
 
-Stopped at Working with text
+Stopped at Links and Images
 
-https://www.theodinproject.com/lessons/foundations-working-with-text
+HTML Images Video Assignment 
+
+https://www.theodinproject.com/lessons/foundations-links-and-images#parent-directories
