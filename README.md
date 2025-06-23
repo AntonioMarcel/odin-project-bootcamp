@@ -1,7 +1,7 @@
 Hello Odin! 
 
-Stopped at Links and Images
+Stopped at Project: Recipes
 
-HTML Images Video Assignment 
+"If you are having trouble:" line
 
-https://www.theodinproject.com/lessons/foundations-links-and-images#parent-directories
+https://www.theodinproject.com/lessons/foundations-recipes
