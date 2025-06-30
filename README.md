@@ -1,7 +1,7 @@
 Hello Odin! 
 
-Stopped at Intro to CSS
+Stopped at [Inspecting Html and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
 
-Assignments
+[Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 
-https://www.theodinproject.com/lessons/foundations-intro-to-css#assignment
+[CSS Exercises Odin](https://github.com/AntonioMarcel/css-exercises-odin)
