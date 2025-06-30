@@ -1,7 +1,7 @@
 Hello Odin! 
 
-Stopped at Project: Recipes
+Stopped at Intro to CSS
 
-"If you are having trouble:" line
+Assignments
 
-https://www.theodinproject.com/lessons/foundations-recipes
+https://www.theodinproject.com/lessons/foundations-intro-to-css#assignment
