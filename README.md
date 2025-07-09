@@ -1,10 +1,17 @@
-Hello Odin! 
+# Hello Odin! 
 
-Stopped at [Inspecting Html and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
+Stopped at [The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model#lesson-overview)
 
-Change the dimensions of an element
-https://developer.chrome.com/docs/devtools/css
+Parts of a box
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 
 [CSS Exercises Odin](https://github.com/AntonioMarcel/css-exercises-odin)'
+
+## Display Properties
+display outer
+block, inline
+
+display inner
+flex, grid
