@@ -1,7 +1,7 @@
 # Hello Odin! 
 
 Stopped at [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline#divs-and-spans)
-Normal flow example
+do block and inline exercises. must check answer for ex 2
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 
