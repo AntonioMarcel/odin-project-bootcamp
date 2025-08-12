@@ -1,10 +1,9 @@
 # Hello Odin! 
 
 Stopped at [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
-Stopped at 1st assignment:
-Reading flex docs 7.1: stopped at flex initial 
-https://www.w3.org/TR/css-flexbox-1/#flexibility
-
+Stopped at 2nd assignment:
+The flex property may be specified using one, two, or three values.
+https://developer.mozilla.org/en-US/docs/Web/CSS/flex
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 
@@ -17,6 +16,17 @@ block, inline, inline-block
 Display inner
 flex, grid
 
-Both: 
 display inline-flex: makes elements inside inline
 display flex: is already type block
+
+# Flex
+
+## flex-shrink
+- flex-shrink: 0 to keep certain divs from shrinking.
+- flex-shrink only applies when overflow.
+- Overflow is when items flex-basis sum higher than container width.
+
+## flex-basis
+- Default: auto (use the item’s width/height/content size as the base)
+- If set to 0, the item starts with no space and only grows/shrinks based on flex-grow/flex-shrink.
+
