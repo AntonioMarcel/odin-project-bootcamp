@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+.container {
+  display: flex;
+  width: 200px; /* small container, not enough space */
+  border: 2px solid black;
+}
+
+.box {
+  flex-basis: 150px; /* each wants 150px */
+  background: lightgreen;
+  margin: 5px;
+  text-align: center;
+}
+
+/* Different shrink values */
+.shrink1 { flex-shrink: 1; }
+.shrink2 { flex-shrink: 2; }
+.shrink3 { flex-shrink: 1; }
+</style>
+
+<body>
+    
+    <div class="container">
+  <div class="box shrink1">Shrink 1</div>
+  <div class="box shrink2">Shrink 2</div>
+  <div class="box shrink3">Shrink 3</div>
+</div>
+
+</body>
+</html>

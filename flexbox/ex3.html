@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+.container {
+  display: flex;
+  width: 600px;
+  border: 2px solid black;
+}
+
+.box {
+  background: lightcoral;
+  margin: 5px;
+  text-align: center;
+  flex-grow: 1; /* they can all grow equally */
+}
+
+.basis100 { flex-basis: 100px; }
+.basis200 { flex-basis: 200px; }
+.basis50 { flex-basis: 50px; }
+</style>
+
+</head>
+<body>
+<div class="container">
+  <div class="box basis100">100px</div>
+  <div class="box basis200">200px</div>
+  <div class="box basis50">50px</div>
+</div>
+
+
+</body>
+</html>
