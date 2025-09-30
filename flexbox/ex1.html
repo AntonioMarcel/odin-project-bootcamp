@@ -5,33 +5,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-.container {
-  display: flex;
-  width: 600px;
-  border: 2px solid black;
-}
+    .container {
+      display: flex;
+      width: 600px;
+      border: 2px solid black;
+    }
 
-.box {
-  background: lightblue;
-  margin: 5px;
-  text-align: center;
-  flex-basis: 300px; /* start width */
-}
+    .box {
+      background: lightblue;
+      margin: 5px;
+      text-align: center;
+      flex-basis: 300px; /* starting width */
+    }
 
-/* Different grow values */
-.grow1 { flex-grow: 1; flex-shrink: 1;}
-.grow2 { flex-grow: 1; flex-shrink: 1;}
-.grow3 { flex-grow: 1; flex-shrink: 0;}
-</style>
+    /* Different grow values */
+    .grow1 { flex-grow: 1; flex-shrink: 1;}
+    .grow2 { flex-grow: 1; flex-shrink: 1;}
+    .grow3 { flex-grow: 1; flex-shrink: 0;}
+    </style>
 
 </head>
 <body>
-    <div class="container">
-  <div class="box grow1">Grow 1</div>
-  <div class="box grow2">Grow 2</div>
-  <div class="box grow3">Grow 3</div>
-</div>
-
+  <div class="container">
+    <div class="box grow1">Grow 1</div>
+    <div class="box grow2">Grow 2</div>
+    <div class="box grow3">Grow 3</div>
+  </div>
 </body>
 </html>
 

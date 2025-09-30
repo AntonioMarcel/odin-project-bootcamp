@@ -1,9 +1,9 @@
 # Hello Odin! 
 
 Stopped at [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
-Stopped at 2nd assignment:
-The flex property may be specified using one, two, or three values.
-https://developer.mozilla.org/en-US/docs/Web/CSS/flex
+>>> What is flex auto?
+
+
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 

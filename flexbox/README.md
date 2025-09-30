@@ -11,3 +11,11 @@
 # Flex-shrink
 - Applied when overflow happens.
 - Flex items with higher flex-shrink will shrink more than the others.
+- If container not fixed, flex shrink applies as well: https://codepen.io/TheOdinProjectExamples/pen/JjJXZVz .
+
+- flex-basis: auto → base size comes from content or width.
+- flex-basis: 0% (or flex-basis: 0) → base size is zero, so all growth comes only from flex-grow.
+- flex: 1 -> shorthand for: flex: 1 1 0;
+- flex: auto -> flex: 1 1 auto;
+
+defaults for each one??? 
