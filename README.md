@@ -1,7 +1,12 @@
 # Hello Odin! 
 
 Stopped at [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
->>> What is flex auto?
+>>> 
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/flex
+try description example
+try Examples section
+
 
 
 

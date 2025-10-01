@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    .container {
+    display: flex;
+    width: 400px;      /* force a small container */
+    border: 2px solid black;
+    margin-bottom: 20px;
+    }
+
+    .box {
+    background: lightblue;
+    border: 1px solid blue;
+    padding: 10px;
+    width: 200px;      /* pretend each box wants 200px */
+    text-align: center;
+    }
+
+    /* flex: none → no grow, no shrink */
+    .none {
+    flex: none;  /* shorthand = 0 0 auto */
+    }
+
+    /* flex: initial → default (0 1 auto) */
+    .initial {
+    flex: initial; /* shorthand = 0 1 auto */
+    }
+    </style>
+</head>
+<body>
+<h3>flex: none</h3>
+    <div class="container">
+        <div class="box none">Box 1</div>
+        <div class="box none">Box 2</div>
+        <div class="box none">Box 3</div>
+    </div>
+
+    <h3>flex: initial</h3>
+    <div class="container">
+        <div class="box initial">Box 1</div>
+        <div class="box initial">Box 2</div>
+        <div class="box initial">Box 3</div>
+    </div>
+</body>
+</html>
