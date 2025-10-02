@@ -1,14 +1,6 @@
 # Hello Odin! 
 
-Stopped at [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
->>> 
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/flex
-try description example
-try Examples section
-
-
-
+Stopped at [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-axes)
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 

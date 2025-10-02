@@ -20,6 +20,7 @@
 # Flex 1 and flex auto
 - flex: 1 -> shorthand for: flex: 1 1 0.
 - flex: auto -> flex: 1 1 auto.
+- both grow to absorb any free space in the container.
 
 # In practice
 - You will probably mostly end up using flex: 1 and flex-shrink: 0.  
@@ -27,3 +28,4 @@
 # Flex none and flex initial
 - flex: none → /* shorthand = 0 0 auto */ “Don’t touch me, I’ll stay my size.”
 - flex: initial → /* shorthand = 0 1 auto */ “I won’t grow, but you can shrink me if needed.”
+- the browser applies the default value of flex: initial, when you don’t explicitly set the flex property.
