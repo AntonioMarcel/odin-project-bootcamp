@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+    .container {
+    display: flex;
+    align-items: flex-start; /* arranges content vertically*/
+    height: 150px;
+    border: 2px dashed gray;
+    }
+
+    .item {
+    background: peachpuff;
+    border: 2px solid brown;
+    padding: 10px;
+    }
+
+    .special {
+    align-self: flex-end; /* overrides container alignment */
+    }
+</style>
+</head>
+<body>
+    <div class="container">
+    <div class="item">A</div>
+    <div class="item special">B</div>
+    <div class="item">C</div>
+    </div>
+</body>
+</html>

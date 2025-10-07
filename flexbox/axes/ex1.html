@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Flexbox Demo</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .controls { /* main axis: horizontal; cross axis: vertical*/
+      display: flex;
+      gap: 20px;
+      align-items: baseline; /* applies in cross axis (vertically) */
+      border: 2px solid red;
+      height: 200px; /* force extra height */
+    }
+
+    .container {
+      display: flex;
+      width: 400px;
+      height: 250px;
+      border: 2px dashed #333;
+      background: #f9f9f9;
+      transition: all 0.3s ease;
+    }
+
+    .item {
+      background: lightblue;
+      padding: 20px;
+      text-align: center;
+      font-weight: bold;
+      border: 1px solid #333;
+    }
+  </style>
+</head>
+<body>
+  <h2>Flexbox Alignment Demo</h2>
+
+  <div class="controls">
+    <label>
+      flex-direction:
+      <select id="direction">
+        <option>row</option>
+        <option>row-reverse</option>
+        <option>column</option>
+        <option>column-reverse</option>
+      </select>
+    </label>
+
+    <label>
+      justify-content:
+      <select id="justify">
+        <option>flex-start</option>
+        <option>flex-end</option>
+        <option>center</option>
+        <option>space-between</option>
+        <option>space-around</option>
+        <option>space-evenly</option>
+      </select>
+    </label>
+
+    <label>
+      align-items:
+      <select id="align">
+        <option>stretch</option>
+        <option>flex-start</option>
+        <option>flex-end</option>
+        <option>center</option>
+        <option>baseline</option>
+      </select>
+    </label>
+  </div>
+
+  <div class="container" id="flexContainer">
+    <div class="item">A</div>
+    <div class="item">B</div>
+    <div class="item">C</div>
+  </div>
+
+  <script>
+    const container = document.getElementById('flexContainer');
+    const direction = document.getElementById('direction');
+    const justify = document.getElementById('justify');
+    const align = document.getElementById('align');
+
+    function updateFlex() {
+      container.style.flexDirection = direction.value;
+      container.style.justifyContent = justify.value;
+      container.style.alignItems = align.value;
+    }
+
+    direction.addEventListener('change', updateFlex);
+    justify.addEventListener('change', updateFlex);
+    align.addEventListener('change', updateFlex);
+
+    // initialize
+    updateFlex();
+  </script>
+</body>
+</html>

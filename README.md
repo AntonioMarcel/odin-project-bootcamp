@@ -1,6 +1,8 @@
 # Hello Odin! 
 
-Stopped at [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-axes)
+Stopped at [Alignment](https://www.theodinproject.com/lessons/foundations-alignment)
+https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/ : Growing and shrinking
+AFTER READING REVIEW 1st EXAMPLE 
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 
