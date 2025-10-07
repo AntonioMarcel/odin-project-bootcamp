@@ -3,7 +3,6 @@ The flex-direction property defines the main axis of a flex container—that is,
 - flex-direction: row → main axis = horizontal, cross = vertical.
 - flex-direction: column → main axis = vertical, cross = horizontal.
 - the default `flex-direction` applied by the browser when setting `display: flex` is `flex-direction: row`.
-- when we change the flex-direction to column, flex-basis refers to `height` instead of `width`.
 
 # justify-content
 - Controls alignment along the main axis.
@@ -19,3 +18,4 @@ The flex-direction property defines the main axis of a flex container—that is,
 - It overrides the container’s align-items for a single child.
 - `align-self`: auto | flex-start | flex-end | center | baseline | stretch;
 - There is no `justify-self` or `justify-items`.
+
