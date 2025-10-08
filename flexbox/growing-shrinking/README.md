@@ -1,3 +1,6 @@
+# Flex properties
+- flex-grow, flex-basis, flex-shrink, flex: number, should be applied on the flex item. 
+
 # Flex-grow
 - Flex-grow applies when the flex item is taking the container width.
 - It grows indefinetely according to the container size and setting it to different values makes the flex-item have a different size (higher the number set, higher the flex item size).
@@ -30,7 +33,7 @@
 - flex-basis: auto → base size comes from content or width.
 - flex-basis: 0% (or flex-basis: 0) → base size is zero, so all growth comes only from flex-grow.
 
-# Flex 1 and flex auto
+# Flex: number and flex: auto
 - flex: 1 -> shorthand for: flex: 1 1 0.
 - flex: auto -> flex: 1 1 auto.
 - both grow to absorb any free space in the container.

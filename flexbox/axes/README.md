@@ -1,5 +1,6 @@
 # flex-direction
 The flex-direction property defines the main axis of a flex container—that is, the direction in which the flex items are laid out.
+- applied on the container, not on the item (just like `display: flex`).
 - flex-direction: row → main axis = horizontal, cross = vertical.
 - flex-direction: column → main axis = vertical, cross = horizontal.
 - the default `flex-direction` applied by the browser when setting `display: flex` is `flex-direction: row`.

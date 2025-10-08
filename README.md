@@ -1,7 +1,7 @@
 # Hello Odin! 
 
 Stopped at [Alignment](https://www.theodinproject.com/lessons/foundations-alignment)
-https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/ : Auto margins
+https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/ : You made it!
 AFTER READING REVIEW 1st EXAMPLE 
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
