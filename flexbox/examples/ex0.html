@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flexbox Example</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    .flex-container {
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: space-around; /* Distribute remaining space */
+      background-color: #f0f0f0;
+      padding: 20px;
+      border: 2px solid #ccc;
+    }
+
+    .flex-item {
+      background-color: #4CAF50;
+      color: white;
+      width: 150px;  /* Fixed width */
+      height: 100px; /* Fixed height */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 10px;
+      border-radius: 8px;
+      font-size: 16px;
+      transition: transform 0.3s; /* Just to make resizing smoother */
+    }
+
+    .flex-item:hover {
+      transform: scale(1.1);
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Flexbox Example: 6 Items with space-around</h2>
+
+  <div class="flex-container">
+    <div class="flex-item">1</div>
+    <div class="flex-item">2</div>
+    <div class="flex-item">3</div>
+    <div class="flex-item">4</div>
+    <div class="flex-item">5</div>
+    <div class="flex-item">6</div>
+  </div>
+
+</body>
+</html>
