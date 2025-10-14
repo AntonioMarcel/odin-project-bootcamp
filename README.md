@@ -1,8 +1,7 @@
 # Hello Odin! 
 
 Stopped at [Alignment](https://www.theodinproject.com/lessons/foundations-alignment)
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-examples : Now let’s use some more properties. 
-Stopped reviewing second example 
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-examples : CSS Exercises (third assignment). 
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 
