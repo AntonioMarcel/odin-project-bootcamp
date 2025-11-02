@@ -1,7 +1,7 @@
 # Hello Odin! 
 
-Stopped at [Alignment](https://www.theodinproject.com/lessons/foundations-alignment)
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-examples : CSS Exercises (third assignment). 
+Stopped at [Alignment](https://www.theodinproject.com/lessons/foundations-landing-page)
+Project: Landing Page
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 
