@@ -1,9 +1,7 @@
 # Hello Odin! 
 
-Stopped at [Variables and Operators](https://www.theodinproject.com/lessons/foundations-variables-and-operators#variables)
-Doing: 2nd assignment 
-This W3Schools lesson on JavaScript arithmetic followed by this on JavaScript numbers, are good introductions to what you can accomplish with numbers in JavaScript.
-
+Stopped at [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js)
+Stopped at the beginning of the assignment
 
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
