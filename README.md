@@ -1,8 +1,10 @@
 # Hello Odin! 
 
-Stopped at [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js)
-Stopped at the beginning of the assignment
+Stopped at [Data types and conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
 
+stopped at: lesson 3 strings
+String mdn docs > "String coercion"
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#string_coercion
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 
