@@ -7,10 +7,21 @@
 </head>
 <body>
     <script>
-    const s1 = "2 + 2"; // creates a string primitive
-    const s2 = new String("2 + 2"); // creates a String object
-    console.log(s1)
-    console.log(s2)
+        let login = prompt("Enter username: ")
+        if (login === "Admin") {
+            let pass = prompt ("Enter password: ")
+            if (pass === "TheMaster") {
+                alert("Welcome!")
+            } else if (pass === "" || pass === null) {
+                alert("Canceled")
+            } else {
+                alert("Wrong password")
+            }
+        } else if (login === "" || login === null) {
+            alert("Canceled")
+        } else {
+            alert("I don't know you!")
+        }
     </script>
 </body>
 </html>

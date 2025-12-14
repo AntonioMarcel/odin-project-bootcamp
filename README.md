@@ -2,9 +2,9 @@
 
 Stopped at [Data types and conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
 
-stopped at: lesson 3 strings
-String mdn docs > "String coercion"
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#string_coercion
+stopped at: switch statements
+conditionals > lesson 3
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Conditionals#switch_statements
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 
@@ -30,4 +30,5 @@ display flex: is already type block
 ## flex-basis
 - Default: auto (use the item’s width/height/content size as the base)
 - If set to 0, the item starts with no space and only grows/shrinks based on flex-grow/flex-shrink.
+
 
