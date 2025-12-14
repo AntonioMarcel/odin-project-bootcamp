@@ -2,9 +2,9 @@
 
 Stopped at [Data types and conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
 
-stopped at: switch statements
+stopped at: adding more color choices
 conditionals > lesson 3
-https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Conditionals#switch_statements
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Conditionals#adding_more_color_choices
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 
