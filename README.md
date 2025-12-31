@@ -2,8 +2,7 @@
 
 Stopped at [Data types and conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
 
-stopped at assignment 5
-https://javascript.info/switch
+stopped at js exercises 01 hello world of repo
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 
