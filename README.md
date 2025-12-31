@@ -1,8 +1,10 @@
 # Hello Odin! 
 
-Stopped at [Data types and conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
+Stopped at [JavaScript Developer Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools#opening-devtools)
 
-stopped at js exercises 01 hello world of repo
+## Reading about devtools for js
+Finish reading overview: https://developer.chrome.com/docs/devtools/overview
+Still have to read every topic in assignment except for 1 and 3
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 
