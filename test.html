@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+    @property --progress {
+      syntax: "<percentage>";
+      inherits: false;
+      initial-value: 0%;
+    }
+
+    .box {
+      width: 200px;
+      height: 40px;
+      background: linear-gradient(
+        to right,
+        green var(--progress),
+        lightgray 0
+      );
+      transition: --progress 1s linear;
+    }
+
+    .box:hover {
+      --progress: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div class="box"></div>
+</body>
+</html>
