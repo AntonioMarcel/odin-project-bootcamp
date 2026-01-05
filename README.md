@@ -6,8 +6,8 @@ Stopped at [JavaScript Developer Tools](https://www.theodinproject.com/lessons/f
 Finish reading overview: https://developer.chrome.com/docs/devtools/overview
 Still have to read every topic in assignment except for 1 and 3
 
-Reading CSS Feature Reference: https://developer.chrome.com/docs/devtools/css/reference/
-Stopped at example "View @position-try at-rules"
+Reading CSS Feature Reference: https://developer.chrome.com/docs/devtools/css/reference#view-inherited-highlight-pseudo-elements
+Stopped at "View inherited highlight pseudo-elements"
 
 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
