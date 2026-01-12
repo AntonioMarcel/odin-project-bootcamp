@@ -3,13 +3,26 @@
 Stopped at [JavaScript Developer Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools#opening-devtools)
 
 ## Reading about devtools for js
-Finish reading overview: https://developer.chrome.com/docs/devtools/overview
-Still have to read every topic in assignment except for 1 and 3
 
-Reading CSS Feature Reference: https://developer.chrome.com/docs/devtools/css/reference#view-inherited-highlight-pseudo-elements
-Stopped at "View inherited highlight pseudo-elements"
+### Lesson 1
+On lesson: [JavaScript Developer Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools#opening-devtools)
 
+Read: 
+View and change CSS
+Get Started With Viewing And Changing The DOM
 
+Still reading:
+Simulate mobile devices with Device Mode > "Throttle the network and CPU"
+CSS features reference
+Debug JavaScript
+Pause your code with breakpoints
+Chrome DevTools console overview
+
+### Lesson 2
+On lesson: [Function Basics](https://www.theodinproject.com/lessons/foundations-function-basics#lesson-overview)
+
+[Assignment1](https://javascript.info/function-basics#default-values) > stopped: "Returning a value"
+ 
 [Odin Recipes Project](https://github.com/AntonioMarcel/odin-recipes)
 
 [CSS Exercises Odin](https://github.com/AntonioMarcel/css-exercises-odin)
