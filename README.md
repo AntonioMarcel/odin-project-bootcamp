@@ -10,13 +10,14 @@ On lesson: [JavaScript Developer Tools](https://www.theodinproject.com/lessons/f
 Read: 
 View and change CSS
 Get Started With Viewing And Changing The DOM
+Chrome DevTools console overview
+tutorial on debugging in Chrome from 
 
 Still reading:
 Simulate mobile devices with Device Mode > "Throttle the network and CPU"
 CSS features reference
 Debug JavaScript
 Pause your code with breakpoints
-Chrome DevTools console overview
 
 ### Lesson 2
 On lesson: [Function Basics](https://www.theodinproject.com/lessons/foundations-function-basics#lesson-overview)
