@@ -11,13 +11,15 @@ Read:
 View and change CSS
 Get Started With Viewing And Changing The DOM
 Chrome DevTools console overview
-tutorial on debugging in Chrome from 
+tutorial on debugging in Chrome from javascript.info
+Simulate mobile devices with Device Mode
 
 Still reading:
-Simulate mobile devices with Device Mode > "Throttle the network and CPU"
 CSS features reference
 Debug JavaScript
 Pause your code with breakpoints
+
+See [commit](https://github.com/TheOdinProject/curriculum/commit/0e42ba75e4144ab83d3c851dcd91eda468b62935) from OP original repo
 
 ### Lesson 2
 On lesson: [Function Basics](https://www.theodinproject.com/lessons/foundations-function-basics#lesson-overview)
