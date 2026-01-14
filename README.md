@@ -15,7 +15,7 @@ tutorial on debugging in Chrome from javascript.info
 Simulate mobile devices with Device Mode
 
 Still reading:
-CSS features reference > "View cascade layers"
+CSS features reference > "Change CSS" (https://developer.chrome.com/docs/devtools/css/reference/)
 Debug JavaScript
 Pause your code with breakpoints
 
