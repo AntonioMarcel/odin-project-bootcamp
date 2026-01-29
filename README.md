@@ -10,14 +10,15 @@ On lesson: [JavaScript Developer Tools](https://www.theodinproject.com/lessons/f
 Read: 
 View and change CSS
 Get Started With Viewing And Changing The DOM
-Chrome DevTools console overview
+Chrome DevTools overview
 tutorial on debugging in Chrome from javascript.info
 Simulate mobile devices with Device Mode
 
 Still reading:
-CSS features reference > "Change CSS" (https://developer.chrome.com/docs/devtools/css/reference/)
+CSS features reference > "Toggle a declaration" (https://developer.chrome.com/docs/devtools/css/reference/#toggle-declaration)
 Debug JavaScript
 Pause your code with breakpoints
+Chrome devtools console overview https://developer.chrome.com/docs/devtools/console/
 
 See [commit](https://github.com/TheOdinProject/curriculum/commit/0e42ba75e4144ab83d3c851dcd91eda468b62935) from OP original repo
 
